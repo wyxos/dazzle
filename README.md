@@ -1,13 +1,13 @@
 # Dazzle
 
-![Dazzle Icon](https://github.com/wyxos/dazzle/blob/main/build/icon.ico)
+![Dazzle Icon](https://github.com/wyxos/dazzle-source/blob/d4b50ae513cc961897c59566fb8097604715ea8b/build/icon.ico)
 
 Dazzle is an innovative application designed to streamline the process of browsing, downloading, and organizing media
 files. With a simple and intuitive interface, Dazzle makes it easy to manage your media collection efficiently.
 
 **Note: Dazzle is currently a work in progress (WIP). The UI and features are still under development.**
 
-![Dazzle Preview](https://github.com/wyxos/dazzle/blob/main/preview.png "Dazzle Preview")
+![Dazzle Preview](https://github.com/wyxos/dazzle-source/blob/d4b50ae513cc961897c59566fb8097604715ea8b/build/preview.png "Dazzle Preview")
 
 ## Key Features
 
