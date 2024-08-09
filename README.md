@@ -19,7 +19,7 @@ files. With a simple and intuitive interface, Dazzle makes it easy to manage you
 
 ## Current Capabilities
 
-- **Image Download from CivitAT:** As of now, Dazzle supports downloading images from CivitAT.
+- **Image Download from CivitAI:** As of now, Dazzle supports downloading images from CivitAI.
 
 ## Getting Started
 
@@ -67,7 +67,7 @@ You can support Dazzle through these channels:
 - **Patreon**: [Become a Patron](https://www.patreon.com/wyxos) to join the community and support long-term development.
 - **PayPal**: For one-time
   contributions, [support Dazzle on PayPal](https://paypal.me/jjaulimsing?country.x=MU&locale.x=en_US). For recurring
-  contributions, [subscribe on PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-26T09192G3624650VMXHO6OA).
+  contributions, [subscribe on PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-2L743351LD524220JM22YX3Y).
 
 Your support, through feedback, suggestions, or contributions, is invaluable. Thank you for considering supporting
 Dazzle!
