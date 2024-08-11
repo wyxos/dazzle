@@ -2,8 +2,9 @@
 
 ![Dazzle Icon](https://github.com/wyxos/dazzle-source/blob/d4b50ae513cc961897c59566fb8097604715ea8b/build/icon.ico)
 
-Dazzle is an application designed to streamline the process of browsing, downloading, and organizing media
-files. With a simple and intuitive interface, Dazzle makes it easy to manage your media collection efficiently.
+Dazzle is an intuitive media management application designed to streamline the browsing, downloading, and organization
+of media files from various online sources. Whether you're a digital artist, content creator, or media enthusiast,
+Dazzle provides a simple interface to efficiently manage your growing media collection.
 
 **Note: Dazzle is currently a work in progress (WIP). The UI and features are still under development.**
 
@@ -11,15 +12,16 @@ files. With a simple and intuitive interface, Dazzle makes it easy to manage you
 
 ## Key Features
 
-- **Browse Content:** Easily browse through various sources to find media files.
-- **Download with One Click:** Download media files without the hassle of choosing directories each time.
-- **Blacklist Unwanted Content:** Mark content that you don't want to see again.
-- **Automatic File Management:** Let the app manage your files for you, organizing them in a simple and efficient
-  manner.
+- **Browse and Discover Content:** Easily browse through various online sources to discover and manage media files.
+- **Effortless Downloads:** Download media files with a single click, automatically organizing them into designated
+  folders.
+- **Blacklist Management:** Quickly mark and hide content you don't want to see again, keeping your collection clean.
+- **Smart File Organization:** Dazzle automatically sorts and organizes your media files, saving you time and effort.
 
 ## Current Capabilities
 
-- **Image Download from CivitAI:** As of now, Dazzle supports downloading images from CivitAI.
+- **Image Download from CivitAI:** Dazzle currently supports downloading and organizing images directly from CivitAI,
+  with more sources to come in future updates.
 
 ## Getting Started
 
@@ -37,22 +39,29 @@ files. With a simple and intuitive interface, Dazzle makes it easy to manage you
 
 ## Future Development
 
-Dazzle is in active development, and several features are planned for future releases:
+Dazzle is actively being developed, with exciting features planned for upcoming releases:
 
 ### Planned Features
 
-- **Support for Additional Sources:** Expand the range of sources from which users can download content.
-- **Enhanced Filtering Options:** More advanced filters to refine search results.
-- **Improved User Interface:** Continuous enhancements to provide a better user experience.
-- **Comprehensive Download Manager:** A more robust system to manage multiple downloads concurrently.
-- **Cross-Platform Compatibility:** Ensure smooth operation on various operating systems.
+- **Support for Additional Sources:** Expand the range of sources from which users can download content, making Dazzle
+  even more versatile.
+- **Advanced Tagging and Categorization:** Introduce tagging and categorization to help users organize and retrieve
+  media files more efficiently.
+- **Automated File Management:** Implement automated actions that allow Dazzle to manage files based on user-defined
+  rules and preferences.
+- **Enhanced Filtering Options:** Introduce more advanced filtering options to refine search results and improve content
+  discovery.
+- **Comprehensive Download Manager:** Develop a more robust system for managing multiple downloads concurrently.
+- **Cross-Platform Compatibility:** Ensure Dazzle operates smoothly on various operating systems, including Windows,
+  macOS, and Linux.
 
 ## Support and Feedback
 
-Your feedback and suggestions are most welcome as we continue to develop Dazzle. Please reach out through the issue
-tracker on GitHub for any issues or feature requests.
+Your feedback is crucial in helping Dazzle evolve into the best media management tool it can be. We welcome your
+suggestions, bug reports, and feature requests. Please reach out through the issue tracker on GitHub for any issues or
+ideas you have.
 
-For more details, visit our website: [wyxos.com](https://www.wyxos.com).
+For more information, visit our website: [wyxos.com](https://www.wyxos.com).
 
 ## Supporting Dazzle
 
