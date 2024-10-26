@@ -75,8 +75,6 @@ You can support Dazzle through these channels:
 - **Patreon**: [Become a Patron](https://www.patreon.com/wyxos) to join the community and support long-term development.
 - **PayPal**: For one-time contributions, [support Dazzle on PayPal](https://paypal.me/jjaulimsing?country.x=MU&locale.x=en_US). For recurring contributions, [subscribe on PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-2L743351LD524220JM22YX3Y).
 
-![Support Dazzle](https://github.com/wyxos/dazzle-source/blob/main/build/support.png)
-
 Dazzle is a freeware developed with passion to create an efficient media management solution. The development takes significant time and effort. If you find Dazzle useful and wish to support its continued development, contributions are appreciated.
 
 You can support Dazzle through these channels:
