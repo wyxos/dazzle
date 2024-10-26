@@ -1,6 +1,6 @@
 # Dazzle
 
-![Dazzle Icon](/icon.ico)
+![Dazzle Icon](/icon-512.png)
 
 
 
