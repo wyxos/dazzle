@@ -63,7 +63,7 @@ I am actively developing Dazzle, with exciting features planned for upcoming rel
 
 Your feedback is crucial in helping Dazzle evolve into the best media management tool it can be. I welcome your suggestions, bug reports, and feature requests. Please reach out through the issue tracker on GitHub for any issues or ideas you have.
 
-For more information, visit my website: [wyxos.com](https://www.wyxos.com).
+For more information, visit my website: [wyxos.com](https://wyxos.com).
 
 ## Supporting Dazzle
 
