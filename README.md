@@ -1,6 +1,8 @@
-# Dazzle
+<p align="center">
+  <img src="/icon-512.png" alt="Dazzle Icon" width="150">
+</p>
 
-![Dazzle Icon](/icon-512.png)
+<h1 align="center">Dazzle</h1>
 
 
 
