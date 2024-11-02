@@ -4,16 +4,11 @@
 
 <h1 align="center">Dazzle</h1>
 
-
-
 Dazzle is an intuitive media management application designed to streamline the browsing, downloading, and organization of media files from various online sources. Whether you need an easy way to download images or a tool to categorize your growing collection, Dazzle provides a simple interface to efficiently manage your media files.
-
 
 **Note: Dazzle is currently a work in progress (WIP). The UI and features are still under development.**
 
 ![Dazzle Preview](/preview.png "Dazzle Preview")
-
-
 
 ## Key Features
 
@@ -50,8 +45,6 @@ I have exciting features in the pipeline to enhance Dazzle's capabilities even f
 
 **Keywords**: advanced tagging, file automation, download manager, cross-platform support, media source expansion.
 
-I am actively developing Dazzle, with exciting features planned for upcoming releases:
-
 ### Planned Features
 
 - **Support for Additional Sources**: Expand the range of sources from which users can download content, making Dazzle even more versatile.
@@ -74,20 +67,10 @@ Dazzle is a freeware developed with passion to create an efficient media managem
 You can support Dazzle through these channels:
 
 - **GitHub Sponsorship**: Click the "Sponsor" button at the top of the [GitHub repository](https://github.com/wyxos/dazzle) to contribute.
-- **Patreon**: [Become a Patron](https://www.patreon.com/wyxos) to join the community and support long-term development.
-- **PayPal**: For one-time contributions, [support Dazzle on PayPal](https://paypal.me/jjaulimsing?country.x=MU&locale.x=en_US). For recurring contributions, [subscribe on PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-2L743351LD524220JM22YX3Y).
-
-Dazzle is a freeware developed with passion to create an efficient media management solution. The development takes significant time and effort. If you find Dazzle useful and wish to support its continued development, contributions are appreciated.
-
-You can support Dazzle through these channels:
-
-- **GitHub Sponsorship**: Click the "Sponsor" button at the top of the [GitHub repository](https://github.com/wyxos/dazzle) to contribute.
-- **Patreon**: [Become a Patron](https://www.patreon.com/wyxos) to join the community and support long-term development.
-- **PayPal**: For one-time contributions, [support Dazzle on PayPal](https://paypal.me/jjaulimsing?country.x=MU\&locale.x=en_US). For recurring contributions, [subscribe on PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-2L743351LD524220JM22YX3Y).
+- **PayPal**: For one-time contributions, [support Dazzle on PayPal](https://paypal.me/jjaulimsing?country.x=MU&locale.x=en_US).
 
 Your support, through feedback, suggestions, or contributions, is invaluable. Thank you for considering supporting Dazzle and helping me continue its development!
 
 ## License
 
 Dazzle is released under the MIT License.
-
